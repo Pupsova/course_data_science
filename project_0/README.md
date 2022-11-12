@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Результат)
-[6. Выводы](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Результат)  
+[6. Выводы](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Выводы)  
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
-:arrow up:[к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow up: [к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md)
 
 ### Какой кейс решаем?
 
@@ -27,25 +27,25 @@
 **Что практикуем**
 Учимся писать хороший код на Python.
 
-:arrow up:[к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow up: [к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md)
 
 ### Краткая информация о данных
 ...
 
-:arrow up:[к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow up: [к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md)
 
 ### Этапы работы над проектом
 ...
 
-:arrow up:[к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow up: [к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md)
 
 ### Результат
 ...
 
-:arrow up:[к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow up: [к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md)
 
 ### Выводы
 ...
 
-:arrow up:[к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow up: [к оглавлению](https://github.com/Pupsova/course_data_science/tree/main/project_0/README.md)
 
