@@ -40,7 +40,7 @@ def score_game(random_predict) -> int:
         random_predict ([type]): функция угадывания
 
     Returns:
-        int: среднее количество попыток
+        int: максимальное количество попыток
     """
     
     count_ls = []
@@ -51,7 +51,7 @@ def score_game(random_predict) -> int:
         count_ls.append(random_predict(number))
 
     score = int(max(count_ls))
-    print(f"Ваш алгоритм угадывает число максимум за:{score} попыток")
+    print(f"Ваш алгоритм угадывает число максимум за {score} попыток")
     return score
 
 
