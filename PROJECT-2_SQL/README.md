@@ -1,4 +1,5 @@
-# [<h4>Project SQL. Анализ вакансий из HeadHunter</h4>](https://github.com/Pupsova/course_data_science/blob/project2/PROJECT-2%20SQL/Project_2.ipynb)
+# [<h4>Project SQL. Анализ вакансий из HeadHunter</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-2_SQL/Project_2.ipynb)
+
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)   
