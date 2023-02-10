@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 PROJECT-1/data/dst-3.0_16_1_hh_database.csv
 PROJECT-1/data/ExchangeRates.csv
+PROJECT-1/Project_1.ipynb
