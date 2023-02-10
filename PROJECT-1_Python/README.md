@@ -6,4 +6,4 @@
     - разведывательный анализ
     - очистка данных
     
-    Скачать датасет можно [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
+    Скачать датасет можно [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
