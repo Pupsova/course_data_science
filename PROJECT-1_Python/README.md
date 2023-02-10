@@ -1,4 +1,4 @@
-<h3>Анализ данных HeadHunter</h3>
+[<h3>Анализ данных HeadHunter</h3>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-1_Python/Project_1.ipynb)
 
     Работа над проектом состоит из четырёх частей:
     - базовый анализ структуры данных
