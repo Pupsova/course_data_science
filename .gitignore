@@ -130,3 +130,7 @@ dmypy.json
 PROJECT-1/data/dst-3.0_16_1_hh_database.csv
 PROJECT-1/data/ExchangeRates.csv
 PROJECT-1/Project_1.ipynb
+PROJECT-3_EDA/data/hotels_test.csv
+.gitignore
+PROJECT-3_EDA/data/hotels_train.csv
+PROJECT-3_EDA/data/submission.csv
