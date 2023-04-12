@@ -124,15 +124,6 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
-# Pyre type checker
-.pyre/
-PROJECT-1/data/dst-3.0_16_1_hh_database.csv
-PROJECT-1/data/ExchangeRates.csv
-PROJECT-1/Project_1.ipynb
-PROJECT-1_Python/.idea/.gitignore
-PROJECT-1_Python/data/dst-3.0_16_1_hh_database.csv
-PROJECT-1_Python/data/ExchangeRates.csv
 PROJECT-3_EDA/data/hotels_test.csv
-PROJECT-3_EDA/data/hotels_train.csv
 PROJECT-3_EDA/data/submission.csv
+PROJECT-3_EDA/data/hotels_train.csv
