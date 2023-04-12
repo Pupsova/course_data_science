@@ -1,4 +1,4 @@
-# [<h4>Project EDA + Feature Engineering. Соревнование на Kaggle</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-2_SQL/Project_2.ipynb)
+# [<h4>Project EDA + Feature Engineering. Соревнование на Kaggle</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-3_EDA/project_3.ipynb)
 
 
 ## Оглавление  
@@ -18,8 +18,13 @@
 ### Информация о данных
 
 Нам предстоит работать с датасетом, в котором содержатся сведения о 515 000 отзывов на отели Европы.
-Первоначальная версия датасета содержит 17 полей со следующей информацией:
 
+Файлы для соревнования
+[hotels_train.csv](https://drive.google.com/file/d/1NMazRYCrLOCUxOZ64aFFg1FHxIa9oIJd/view?usp=share_link) - набор данных для обучения
+[hotels_test.csv](https://drive.google.com/file/d/14RdR0kG-3kYjU5VKFBNLGoe98osYzOL5/view?usp=share_link) - набор данных для оценки качества
+[submission.csv](https://drive.google.com/file/d/1oOf8qjysQ5bOqGFtM_WzT1BYnpAcuNAD/view?usp=share_link) - файл сабмишна в нужном формате
+
+Первоначальная версия датасета содержит 17 полей со следующей информацией:
 * hotel_address — адрес отеля;
 * review_date — дата, когда рецензент разместил соответствующий отзыв;
 * average_score — средний балл отеля, рассчитанный на основе последнего комментария за последний год;
