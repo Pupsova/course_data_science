@@ -1,4 +1,4 @@
-# [<h4>PROJECT-4_Задача_классификации</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-4_Задача_классификации/project_4.ipynb)
+# [<h4>PROJECT-4_Задача_классификации</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-4_Задача_классификации/Project_4.ipynb)
 
 
 ## Оглавление  
