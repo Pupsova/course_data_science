@@ -1,4 +1,4 @@
-[<h4>Анализ данных HeadHunter</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-1_Python/Project_1.ipynb)
+# [<h4>Анализ данных HeadHunter</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-1_Python/Project_1.ipynb)
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)   
