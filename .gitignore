@@ -4,10 +4,10 @@ PROJECT-3_EDA/data/submission.csv
 PROJECT-4_Задача_классификации/data/bank_fin.csv
 PROJECT-5_Задача_регрессии/data/holiday_data.csv
 PROJECT-5_Задача_регрессии/data/osrm_data_test.csv
+PROJECT-5_Задача_регрессии/data/osrm_data_train.csv
 PROJECT-5_Задача_регрессии/data/submission_gb.csv
 PROJECT-5_Задача_регрессии/data/submission_xgb.csv
 PROJECT-5_Задача_регрессии/data/test.csv
 PROJECT-5_Задача_регрессии/data/train.csv
 PROJECT-5_Задача_регрессии/data/weather_data.csv
-PROJECT-5_Задача_регрессии/data/osrm_data_train.csv
 PROJECT-6_Сегментирование_клиентов_онлайн-магазина_подарков/data/customer_segmentation_project.csv
