@@ -1,5 +1,7 @@
 # [<h4>PROJECT-7. Модель прогнозирования стоимости жилья для агентства недвижимости</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-7_House_prices_predict/Project_7.ipynb)
 
+К сожалению, получился очень большой файл для показа на github, но его можно скачать :)
+
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)   
