@@ -1,3 +1,4 @@
+PROJECT-0_Data_visualization/data/churn.csv
 PROJECT-3_EDA/data/hotels_test.csv
 PROJECT-3_EDA/data/hotels_train.csv
 PROJECT-3_EDA/data/submission.csv
@@ -14,3 +15,4 @@ PROJECT-6_Сегментирование_клиентов_онлайн-мага�
 PROJECT-6_Сегментирование_клиентов_онлайн-магазина_подарков/data/data.csv
 PROJECT-7_House_prices_predict/data/data.csv
 PROJECT-7_House_prices_predict/house_prices/
+
