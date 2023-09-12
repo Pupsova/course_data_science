@@ -1,4 +1,4 @@
-# [<h4>PROJECT-5. Задача регрессии</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-5_EDA/project_5.ipynb)
+# [<h4>PROJECT-4_Задача_классификации</h4>](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-4_Задача_классификации/Project_4.ipynb)
 
 
 ## Оглавление  
