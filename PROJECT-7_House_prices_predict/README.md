@@ -1,9 +1,12 @@
 # <h4>PROJECT-7. Модель прогнозирования стоимости жилья для агентства недвижимости</h4>
 
+
 Проект состоит из трех частей, ссылки на все части ниже:
 * [Первая часть.](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-7_House_prices_predict/Project_7_1.ipynb)
 * [Вторая часть.](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-7_House_prices_predict/Project_7_2.ipynb)
 * [Третья часть.](https://github.com/Pupsova/course_data_science/blob/main/PROJECT-7_House_prices_predict/Project_7_3.ipynb)
+
+
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)   
